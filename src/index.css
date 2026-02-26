@@ -2,7 +2,7 @@
 
 @layer base {
   body {
-    @apply bg-linear-to-r from-[#29251c] to-[#2c2306]
+    @apply bg-linear-to-r from-[#29251c] to-[#2c2306] text-[#d9e2f1]
   }
 }
 
